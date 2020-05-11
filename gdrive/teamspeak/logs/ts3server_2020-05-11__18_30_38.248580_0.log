@@ -1,0 +1,21 @@
+2020-05-11 18:30:38.248627|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.11.0 (2020-01-13 08:12:37)
+2020-05-11 18:30:38.251113|INFO    |ServerLibPriv |   |SystemInformation: Linux 4.18.0-1015-gcp #16-Ubuntu SMP Tue Jun 25 15:10:06 UTC 2019 x86_64 Binary: 64bit
+2020-05-11 18:30:38.252247|INFO    |ServerLibPriv |   |Using hardware aes
+2020-05-11 18:30:38.253158|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2020-05-11 18:30:38.253336|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2020-05-11 18:30:38.253655|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2020-05-11 18:30:38.307627|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2020-05-11 18:30:38.308184|INFO    |Accounting    |   |Licensing Information
+2020-05-11 18:30:38.308383|INFO    |Accounting    |   |licensed to       : Anonymous
+2020-05-11 18:30:38.308515|INFO    |Accounting    |   |type              : No License
+2020-05-11 18:30:38.308641|INFO    |Accounting    |   |starting date     : Mon Jul  1 00:00:00 2019
+2020-05-11 18:30:38.308751|INFO    |Accounting    |   |ending date       : Wed Jul  1 00:00:00 2020
+2020-05-11 18:30:38.308975|INFO    |Accounting    |   |max virtualservers: 1
+2020-05-11 18:30:38.309089|INFO    |Accounting    |   |max slots         : 32
+2020-05-11 18:30:38.372110|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-05-11 18:30:38.808313|ERROR   |Accounting    |   |local accounting reports an already running instance, instance will shutdown
+2020-05-11 18:30:39.837572|INFO    |              |   |Puzzle precompute time: 1488
+2020-05-11 18:30:39.838737|ERROR   |FileManager   |   |bind failed on 0.0.0.0:30033; reason: Address already in use
+2020-05-11 18:30:39.841547|ERROR   |FileManager   |   |bind failed on [::]:30033; reason: Address already in use
+2020-05-11 18:30:39.841759|ERROR   |FileManager   |   |Could not bind filetransfer listen port on default addresses
+2020-05-11 18:30:39.841901|CRITICAL|VirtualSvrMgr |   |Could not start file manager 258 no network port available
